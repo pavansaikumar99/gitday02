@@ -1,1 +1,1 @@
-keyname : prod
+keyname : github
